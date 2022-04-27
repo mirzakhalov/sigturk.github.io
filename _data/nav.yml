@@ -1,14 +1,14 @@
 - title: Home
   url: /
 
-- title: Get involved
-  url: /join/
-
 - title: Members
   url: /members/
+
+- title: Get involved
+  url: /join/
 
 - title: Constitution
   url: /constitution/
 
-- title: Contact us
+- title: Contact
   url: /contact/
