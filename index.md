@@ -1,9 +1,7 @@
 ---
 layout: page
-title: SIGTURK
+title: Welcome!
 ---
-
-# Welcome!
 
 ![Turkic languages on a map](assets/img/turkic_languages_map.png)
 
