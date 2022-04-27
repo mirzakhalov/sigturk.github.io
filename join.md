@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join us
+title: Get involved
 subtitle: ACL Special Interest Group on Turkic Languages
 ---
 
