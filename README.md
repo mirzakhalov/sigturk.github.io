@@ -1,1 +1,1 @@
-# j0ma.github.io
+# ACL Special Interest Group on Turkic Languages
