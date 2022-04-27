@@ -3,4 +3,4 @@ logo: /assets/img/sigturk_logo_placeholder.png
 description: Website for the ACL Special Interest Group on Turkic Languages
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: oinam/oinam-jekyll
