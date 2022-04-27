@@ -3,7 +3,7 @@ layout: page
 title: Welcome!
 ---
 
-![Turkic languages on a map](assets/img/turkic_languages_map.png)
+![Turkic languages on a map, taken from](https://wikiless.org/media/wikipedia/commons/thumb/f/fa/Turkic_Languages_distribution_map.png/800px-Turkic_Languages_distribution_map.png)
 
 Welcome to the home page of the ACL Special Interest Group on Turkic Languages (SIGTURK),
 We are a group of researchers and industry professionals broadly interested in advancing the state of NLP for Turkic Languages.
