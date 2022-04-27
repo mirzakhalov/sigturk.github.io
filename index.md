@@ -1,4 +1,7 @@
-# SIGTURK
+---
+layout: page
+title: SIGTURK
+---
 
 Hello world!
 
